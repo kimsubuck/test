@@ -6,6 +6,7 @@ public class Main {
 
 		System.out.println("Hello Git!");
 		System.out.println("Goodbye Master!");
+		System.out.println("헬로 스프링");
 	}
 
 }
