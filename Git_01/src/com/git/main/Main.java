@@ -9,6 +9,7 @@ public class Main {
 		System.out.println("Hello Master");
 		System.out.println("Goodbye Master!");
 		System.out.println("헬로 스프링");
+		System.out.println("ㅈㄴ 복잡하네 ㅅㅂ");
 	}
 
 }
